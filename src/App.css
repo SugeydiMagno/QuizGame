@@ -1,0 +1,21 @@
+.app {
+    text-align: center;
+    justify-content: center;
+  }
+  
+  table {
+    width: 400px;
+    margin: auto;
+  }
+  
+  td { 
+    /*border: 1px solid black;*/
+    text-align: center;
+    width:100px;
+  }
+  
+  button {
+    margin-top: 5px;
+    margin-right: 100px;
+
+  }
